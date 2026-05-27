@@ -1,0 +1,6 @@
+{
+  "name": "Morse Code Trainer",
+  "description": "실시간 모스부호 입력 및 점수 획득을 지원하는 인터랙티브 모스부호 학습용 PCB 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
